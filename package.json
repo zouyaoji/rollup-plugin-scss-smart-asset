@@ -1,0 +1,46 @@
+{
+  "name": "rollup-plugin-scss-smart-asset",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Rollup .scss, .sass, .css  files with node-sass, postcss and postcss-url.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "rollup -c"
+  },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "scss",
+    "css",
+    "asset"
+  ],
+  "author": "zouyaoji <370681295@qq.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouyaoji/rollup-plugin-scss-smart-asset"
+  },
+  "bugs": {
+    "url": "https://github.com/zouyaoji/rollup-plugin-scss-smart-asset/issues"
+  },
+  "homepage": "https://github.com/zouyaoji/rollup-plugin-scss-smart-asset",
+  "dependencies": {
+    "@rollup/pluginutils": "^3.0.0",
+    "fs-extra": "^8.1.0",
+    "node-sass": "^4.13.0",
+    "postcss": "^7.0.24",
+    "postcss-url": "^8.0.0",
+    "source-map-concat": "^1.0.1"
+  },
+  "peerDependencies": {
+    "rollup": "^1.20.0"
+  },
+  "devDependencies": {
+    "rollup": "^1.27.13",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "the-answer": "^1.0.0"
+  }
+}
