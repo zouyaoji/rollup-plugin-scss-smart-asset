@@ -1,6 +1,6 @@
 # rollup-plugin-scss-smart-asset
 
-🍣 A Rollup plugin which import .scss, .sass, .css files, and rebase, inline or copy on url(). Based on [node-sass](https://github.com/sass/node-sass), [postcss](https://github.com/postcss/postcss) and [postcss-url](https://github.com/postcss/postcss-url).
+🍣 A Rollup plugin which import .scss, .sass, .css files, and rebase, inline or copy on url(). Based on [node-sass](https://github.com/sass/node-sass), [postcss](https://github.com/postcss/postcss) and [postcss-url](https://github.com/postcss/postcss-url). [中文](https://github.com/zouyaoji/rollup-plugin-scss-smart-asset/blob/master/README.zh.md)
 
 [![npm](https://img.shields.io/npm/v/rollup-plugin-scss-smart-asset?style=plastic)](https://www.npmjs.com/package/rollup-plugin-scss-smart-asset)
 [![npm](https://img.shields.io/npm/dm/rollup-plugin-scss-smart-asset?style=plastic)](https://www.npmjs.com/package/rollup-plugin-scss-smart-asset)
